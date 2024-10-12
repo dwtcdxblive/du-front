@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dugitex.github.io/static/css/main.6b00fbbd.css",
-    "main.js": "/dugitex.github.io/static/js/main.37a5ac38.js",
+    "main.js": "/dugitex.github.io/static/js/main.8ffd5178.js",
     "static/js/453.419a5d54.chunk.js": "/dugitex.github.io/static/js/453.419a5d54.chunk.js",
     "static/media/double-espresso-active.png": "/dugitex.github.io/static/media/double-espresso-active.1e294e586ad13090280a.png",
     "static/media/double-espresso.png": "/dugitex.github.io/static/media/double-espresso.8f02921cf82594ae19bb.png",
@@ -13,6 +13,7 @@
     "static/media/cappuccino.png": "/dugitex.github.io/static/media/cappuccino.abaa18b3950f40043c87.png",
     "static/media/americano-active.png": "/dugitex.github.io/static/media/americano-active.c78e7b0954e61302f134.png",
     "static/media/americano.png": "/dugitex.github.io/static/media/americano.cc44840fd3449db4d440.png",
+    "static/media/du-self.png": "/dugitex.github.io/static/media/du-self.85824fe98017b0180bed.png",
     "static/media/tea-active.png": "/dugitex.github.io/static/media/tea-active.cb3ef82921a2b0f99455.png",
     "static/media/tea.png": "/dugitex.github.io/static/media/tea.ced19d51c7867860049a.png",
     "static/media/cancel.png": "/dugitex.github.io/static/media/cancel.50b6b82b552854316078.png",
@@ -27,11 +28,11 @@
     "static/media/self-order-kiosk.png": "/dugitex.github.io/static/media/self-order-kiosk.806e969c634dc949c4c9.png",
     "index.html": "/dugitex.github.io/index.html",
     "main.6b00fbbd.css.map": "/dugitex.github.io/static/css/main.6b00fbbd.css.map",
-    "main.37a5ac38.js.map": "/dugitex.github.io/static/js/main.37a5ac38.js.map",
+    "main.8ffd5178.js.map": "/dugitex.github.io/static/js/main.8ffd5178.js.map",
     "453.419a5d54.chunk.js.map": "/dugitex.github.io/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b00fbbd.css",
-    "static/js/main.37a5ac38.js"
+    "static/js/main.8ffd5178.js"
   ]
 }
