@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dugitex.github.io/static/css/main.6b00fbbd.css",
+    "main.css": "/dugitex.github.io/static/css/main.74aeaf74.css",
     "main.js": "/dugitex.github.io/static/js/main.772e5c69.js",
     "static/js/453.419a5d54.chunk.js": "/dugitex.github.io/static/js/453.419a5d54.chunk.js",
     "static/media/double-espresso-active.png": "/dugitex.github.io/static/media/double-espresso-active.1e294e586ad13090280a.png",
@@ -29,12 +29,12 @@
     "static/media/cafe-logo.png": "/dugitex.github.io/static/media/cafe-logo.806e969c634dc949c4c9.png",
     "static/media/self-order-kiosk.png": "/dugitex.github.io/static/media/self-order-kiosk.806e969c634dc949c4c9.png",
     "index.html": "/dugitex.github.io/index.html",
-    "main.6b00fbbd.css.map": "/dugitex.github.io/static/css/main.6b00fbbd.css.map",
+    "main.74aeaf74.css.map": "/dugitex.github.io/static/css/main.74aeaf74.css.map",
     "main.772e5c69.js.map": "/dugitex.github.io/static/js/main.772e5c69.js.map",
     "453.419a5d54.chunk.js.map": "/dugitex.github.io/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b00fbbd.css",
+    "static/css/main.74aeaf74.css",
     "static/js/main.772e5c69.js"
   ]
 }
