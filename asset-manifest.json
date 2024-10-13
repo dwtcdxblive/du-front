@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dugitex.github.io/static/css/main.6b00fbbd.css",
-    "main.js": "/dugitex.github.io/static/js/main.25197545.js",
+    "main.js": "/dugitex.github.io/static/js/main.772e5c69.js",
     "static/js/453.419a5d54.chunk.js": "/dugitex.github.io/static/js/453.419a5d54.chunk.js",
     "static/media/double-espresso-active.png": "/dugitex.github.io/static/media/double-espresso-active.1e294e586ad13090280a.png",
     "static/media/double-espresso.png": "/dugitex.github.io/static/media/double-espresso.8f02921cf82594ae19bb.png",
@@ -19,6 +19,8 @@
     "static/media/cancel.png": "/dugitex.github.io/static/media/cancel.50b6b82b552854316078.png",
     "static/media/order-btn.png": "/dugitex.github.io/static/media/order-btn.80e112fb360d459b8943.png",
     "static/media/place-order.png": "/dugitex.github.io/static/media/place-order.bb9409405ba4779a17db.png",
+    "static/media/water-active.png": "/dugitex.github.io/static/media/water-active.ddce0ece781dc9cbfacd.png",
+    "static/media/water.png": "/dugitex.github.io/static/media/water.c646ec18d6d506256ac1.png",
     "static/media/Group 3.png": "/dugitex.github.io/static/media/Group 3.dc39679a36377ee991bd.png",
     "static/media/home.png": "/dugitex.github.io/static/media/home.22e7030ee0e2795ba98a.png",
     "static/media/next.png": "/dugitex.github.io/static/media/next.c9f9c4542fca139e1163.png",
@@ -28,11 +30,11 @@
     "static/media/self-order-kiosk.png": "/dugitex.github.io/static/media/self-order-kiosk.806e969c634dc949c4c9.png",
     "index.html": "/dugitex.github.io/index.html",
     "main.6b00fbbd.css.map": "/dugitex.github.io/static/css/main.6b00fbbd.css.map",
-    "main.25197545.js.map": "/dugitex.github.io/static/js/main.25197545.js.map",
+    "main.772e5c69.js.map": "/dugitex.github.io/static/js/main.772e5c69.js.map",
     "453.419a5d54.chunk.js.map": "/dugitex.github.io/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b00fbbd.css",
-    "static/js/main.25197545.js"
+    "static/js/main.772e5c69.js"
   ]
 }
